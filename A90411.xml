@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The frame of the government of the province of Pennsylvania in America</title>
+            <author>Penn, William, 1644-1718.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90411</idno>
+            <idno type="STC">Wing P1293</idno>
+            <idno type="STC">ESTC R42318</idno>
+            <idno type="EEBO-CITATION">36272978</idno>
+            <idno type="OCLC">ocm 36272978</idno>
+            <idno type="VID">150155</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90411)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150155)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2234:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The frame of the government of the province of Pennsylvania in America</title>
+                  <author>Penn, William, 1644-1718.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and Sold by Andrew Soule at the Crooked- Billet in Holloway Lane in Shoreditch,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The preface and the Frame of the government are signed: William Penn.</note>
+                  <note>Imperfect: tightly bound and with print show-through.</note>
+                  <note>Reproduction of original in the Friends' Library (London, England)</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pennsylvania --  Constitutional history.</term>
+               <term>Pennsylvania --  Politics and government --  To 1775.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:150155:1" rendition="simple:additions"/>
+            <p>The FRAME OF THE GOVERNMENT Of the <hi>Province</hi> of <hi>Pennſylvania</hi> In <hi>America.</hi>
+            </p>
+            <p>Printed, and Sold by <hi>Andrew Sowle</hi> at the Crooked-Billet in <hi>Holloway-Lane</hi> in <hi>Shoreditch,</hi> 1691.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:150155:2"/>
+            <pb n="3" facs="tcp:150155:2" rendition="simple:additions"/>
+            <head>The Frame of the Govern<g ref="char:EOLhyphen"/>ment of the Province of <hi>Pennſylvania,</hi> &amp;c. in <hi>America.</hi>
+            </head>
+            <p>TO all Perſons to whom theſe preſents may come: Whereas <hi>King Charles</hi> the ſecond, by his Letters <hi>Patents</hi> under the <hi>Great Seal</hi> of <hi>England,</hi> bearing date the Fourth Day of <hi>March,</hi> in the Thirty Third Year of the <hi>King,</hi> for divers Conſide<g ref="char:EOLhyphen"/>rations therein mentioned, hath been Gratiouſ<g ref="char:EOLhyphen"/>ly pleaſed to give and grant unto me <hi>William Penn,</hi> by the Name of <hi>William Penn Eſquire,</hi> Son and Heir of <hi>Sir William Penn</hi> Deceaſed, and to my <hi>Heirs</hi> and <hi>Aſſignes,</hi> for ever, All that Tract of <hi>Land</hi> or <hi>Province</hi> called <hi>Pennſylvania</hi> in <hi>America;</hi> with divers great <hi>Powers, Prehe<g ref="char:EOLhyphen"/>minences, Royalties, Juriſdictions</hi> and <hi>Authori<g ref="char:EOLhyphen"/>ties,</hi> neceſſary for the well-being and Gover<g ref="char:EOLhyphen"/>ning thereof. <hi>And</hi> whereas the <hi>King's</hi> Deareſt Brother <hi>James Duke</hi> of <hi>York</hi> and <hi>Albany,</hi> &amp;c. By Deeds of Feoffment under his Hand and Seal, duly perfected, bearing date the four
+<pb n="4" facs="tcp:150155:3"/> and Twentieth day of <hi>Auguſt;</hi> One Thouſand Six Hundred Eighty and Two, of all that Tract of <hi>Land,</hi> lying and being from Twelve Miles Northward of <hi>New-Caſtle</hi> upon <hi>Dela<g ref="char:EOLhyphen"/>ware-River,</hi> in <hi>America,</hi> to <hi>Cape Inlopen,</hi> up<g ref="char:EOLhyphen"/>on the ſaid <hi>River</hi> and <hi>Bay</hi> of <hi>Delaware</hi> South<g ref="char:EOLhyphen"/>ward; Together with all <hi>Royalties, Franchiſes, Duties, Juriſdictions, Liberties</hi> and <hi>Priviledges,</hi> thereunto belonging; Now <hi>know ye</hi> that for the well-being and <hi>Governing</hi> of the ſaid <hi>Pro<g ref="char:EOLhyphen"/>vince,</hi> and <hi>Territories</hi> thereunto annexed, and for the Incouragement of all Free-men and Plan<g ref="char:EOLhyphen"/>ters, that may be therein concerned, in Purſu<g ref="char:EOLhyphen"/>ance of the <hi>Rights</hi> and <hi>Powers</hi> aforementioned, I the ſaid <hi>William Penn,</hi> have declared, gran<g ref="char:EOLhyphen"/>ted and <hi>Confirmed,</hi> and by theſe preſents for me, my <hi>Heirs</hi> and <hi>Aſſigns,</hi> do <hi>Declare, Grant</hi> and <hi>Confirm,</hi> unto all <hi>Free-men, Planters</hi> and <hi>Ad<g ref="char:EOLhyphen"/>venturers,</hi> of, in and to the ſaid <hi>Province</hi> and <hi>Ter<g ref="char:EOLhyphen"/>ritories</hi> thereof, theſe <hi>Liberties, Franchiſes</hi> and <hi>Properties,</hi> ſo far as in me lieth, to be <hi>Held, Injoyed</hi> and <hi>Kept</hi> by the Free-men, Planters and Adventurers, of, and in the ſaid <hi>Province</hi> of <hi>Pennſylvania,</hi> and <hi>Territories</hi> thereunto Annexed forever.</p>
+            <p>
+               <hi>Imprimis, That</hi> the <hi>Government</hi> of this <hi>Province</hi> and <hi>Territories</hi> thereof, ſhall from time to time, according to the <hi>Powers</hi> of the <hi>Patent,</hi> and <hi>Deeds</hi> of Feoffment aforeſaid, Conſiſt of the Propri<g ref="char:EOLhyphen"/>etary and Governour, and the Freemen of the ſaid <hi>Province,</hi> and <hi>Territory</hi> thereof, in the form
+<pb n="5" facs="tcp:150155:3" rendition="simple:additions"/> of a Provincial Council and Aſſembly; which Provincial Council ſhall conſiſt of eighteen Perſons, being three out of each County, and which Aſſembly ſhall conſiſt of thirty ſix Perſons, being ſix out of each County, men of moſt note for their Virtue, Wiſdom and A<g ref="char:EOLhyphen"/>bility, by whom all Laws ſhall be made, and Publick Affairs tranſacted, as is hereafter limi<g ref="char:EOLhyphen"/>ted and declared.</p>
+            <p n="2">2dly. There being three perſons already choſen for every reſpective County of this Pro<g ref="char:EOLhyphen"/>vince, and Territories thereof, to ſerve in the Provincial Council, one of them for three Years; one for two Years, and one for one Year, and one of them being to go off Yearly in every County: That on the tenth Day of the firſt Month yearly forever after, the Free-man of the ſaid Province and Territories thereof, ſhall meet together in the moſt convenient place in every County of this <hi>Province,</hi> and <hi>Territo<g ref="char:EOLhyphen"/>ries</hi> thereof, then and there to chuſe one Perſon qualified as aforeſaid, in every County, being one third of the number to ſerve in Provincial Council for three Years, it being intended that one third of the whole Provincial Council, con<g ref="char:EOLhyphen"/>ſiſting and to conſiſt of eighteen Perſons, fall<g ref="char:EOLhyphen"/>ing off yearly, it ſhall be yearly ſupplyed with ſuch yearly Elections, as aforeſaid, and that one Perſon ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll not continue longer than three Years: And in caſe any Member ſhall deceaſe
+<pb n="4" facs="tcp:150155:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:150155:4" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:150155:5"/> before the laſt Election during his time, that then at the next Election enſuing his deceaſe, another ſhall be choſen to ſupply his place for the remaining time he was to have ſerved, and no longer.</p>
+            <p n="3">3dly That after the firſt ſeven Years, every one of the ſaid third parts that goeth yearly off, ſhall be incapable of being choſen again for one whole Year following, that ſo all that are ca<g ref="char:EOLhyphen"/>pable and qualified, as aforeſaid, may be fitted for Government, and have a ſhare of the care and burthen of it.</p>
+            <p n="4">4htly. That the Provincial Council in all caſes and matters of moment, as their arguing upon Bills to be paſt into Laws, or proceedings about erecting of Courts of Juſtice, ſitting in Iudgment upon Criminals impeached, and choice of Officers in ſuch manner as is herein after expreſſed, not leſs then <hi>two Thirds</hi> of the whole, ſhall make a <hi>Quorum,</hi> and that the con<g ref="char:EOLhyphen"/>ſent and approbation of two thirds of the <hi>Quorum</hi> ſhall be had in all ſuch caſes or Matters of Moment. And that in all caſes and matters o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> leſſer moment, one Third of the whole ſhall make a <hi>Quorum,</hi> the Majority of which ſhall and may always determine in ſuch Caſes and Cauſes of leſſer moment.
+<pb n="7" facs="tcp:150155:5"/>
+            </p>
+            <p n="5"> 5thly. That the Governour and Provincial Council ſhall have the Power of preparing and propoſing to the Aſſembly hereafter mention<g ref="char:EOLhyphen"/>ed, all Bills which they ſhall ſee needful, &amp; that ſhall at any time be paſt into Laws within the ſaid <hi>Province</hi> and <hi>Territories</hi> thereof; which Bills ſhall be publiſhed and affixed to the moſt noted place in every <hi>County</hi> of this <hi>Province</hi> and <hi>Territories</hi> thereof twenty days before the meeting of the Aſſembly, in order to paſſing them into Laws.</p>
+            <p n="6">6thly. That the <hi>Governour</hi> and <hi>Provincial Council</hi> ſhall take care, that all Laws, Statutes and Ordinances, which ſhall at any time be made within the <hi>Province</hi> and <hi>Territories,</hi> be duly and diligently executed.</p>
+            <p n="7">7thly. That the Governour and Provincial Council ſhall at all times have the care of the Peace and Safety of this <hi>Province</hi> and <hi>Territories</hi> thereof; and that nothing be by any Perſon at<g ref="char:EOLhyphen"/>tempted to the Subverſion of this frame of Go<g ref="char:EOLhyphen"/>verment.</p>
+            <p n="8">8thly. That the Governour and Provincial Council ſhall at all times ſettle and order the Situation of all Cities and Market-Towns in every County; m delling therein all publick Buildings, Streets, and Market-places, and
+<pb n="8" facs="tcp:150155:6"/> ſhall appoint all neceſſary Roads &amp; High-ways in this <hi>Province</hi> and <hi>Territories</hi> thereof.</p>
+            <p n="9">9thly. That the Governour and Provincial Council ſhall at all times have power to inſpect the management of the publick Treaſury, and puniſh thoſe who ſhall convert any part there<g ref="char:EOLhyphen"/>of to any other uſe, than what hath been agreed upon by the Governour, Provincial Council and Aſſembly.</p>
+            <p n="10">10thly. That the Governour and Provincial Council ſhall erect and order all publick Schools, and encourage and reward the Authors of uſe<g ref="char:EOLhyphen"/>ful Sciences, and laudable Inventions in the ſaid Province and Territories thereof.</p>
+            <p n="11">11thly. That one Third of the Provincial Council reſiding with the Governour, ſhall with the Governour from time to time have the care of the management of all publick Affairs, rela<g ref="char:EOLhyphen"/>ting to the Peace, Juſtice, Treaſury and Im<g ref="char:EOLhyphen"/>provement of the Province and Territories, and to the good Education of Youth, and Sobriety of the Manners of the Inhabitants therein, as aforeſaid.</p>
+            <p n="12">12thly. That the Governour or his Deputy ſhall always preſide in the Provincial Council, and that he ſhall at no time therein perform any publick Act of State whatſoever, that ſhall
+<pb n="9" facs="tcp:150155:6"/> or may relate unto the Juſtice, Trade, Trea<g ref="char:EOLhyphen"/>ſury or Safety of the Province, and Territories as aforeſaid, but by and with the Advice and Conſent of the Provincial Council thereof.</p>
+            <p n="13">13thly. And to the end that all Bills prepared and agreed by the Governour and Provincial Council, as aforeſaid, may yet have the more full concurrence of the Free-men of the Pro<g ref="char:EOLhyphen"/>vince and Territories thereof; It is declared, granted and confirmed, that at the time and place in every County, for the choice of one Perſon to ſerve in Provincial Council, as afore<g ref="char:EOLhyphen"/>ſaid, the reſpective Members thereof at their ſaid Meeting, ſhall yearly chuſe out of them<g ref="char:EOLhyphen"/>ſelves ſix Perſons of moſt note for their Virtue, Wiſdom and Ability, to ſerve in Aſſembly, as their Repreſentatives, who ſhall yearly meet on the twentieth day of the third Moneth, in the Capital Town or City of the ſaid Province, unleſs the Governour and Provincial Council ſhall think fit to appoint another place to meet in; where during eight days, the ſeveral Mem<g ref="char:EOLhyphen"/>bers may confer freely with one another, and if any of them ſee meet, with a Committee, which ſhall be at that time purpoſely appointed, to re<g ref="char:EOLhyphen"/>ceive from any of them Propoſals for the alte<g ref="char:EOLhyphen"/>ration or amendment of any of the ſaid propo<g ref="char:EOLhyphen"/>ſed &amp; promulgated Bills, and on the nineth day from their ſo meeting, the ſaid Aſſembly, after their reading over of the propoſed Bills by the
+<pb n="10" facs="tcp:150155:7"/> Clerk of the Provincial Council, and the occaſi<g ref="char:EOLhyphen"/>ons and motives for them being open'd by the Governour, or his Deputy, ſhall upon the Queſtion by him put, give their Affirmative or Negative, which to them ſeemeth beſt, in ſuch manner as is hereafter expreſſed, but not leſs than two thirds ſhall make a <hi>Quorum</hi> in the paſ<g ref="char:EOLhyphen"/>ſing of all Bills into Laws, and choice of ſuch Officers as are by them to be choſen.</p>
+            <p n="14">14th. That the Laws ſo prepared and pro<g ref="char:EOLhyphen"/>poſed, as aforeſaid, that are aſſented to by the Aſſembly, ſhall be enrolled as Laws of this Pro<g ref="char:EOLhyphen"/>vince and Territories thereof, with this Stile, <hi>By the Governour, with the Aſſent and Approbation of the Free-men in Provincial Council and Aſſembly met.</hi> And from henceforth the Meeting, Seſſions, Acts and Proceedings of the Governour, Pro<g ref="char:EOLhyphen"/>vincial Council and Aſſembly ſhall be ſtiled and called, <hi>The Meeting-Seſſions and Proceeding of the Province of</hi> Pennſylvania, <hi>and the Territories thereunto belonging.</hi>
+            </p>
+            <p n="15">15th. And that the Repreſentatives of the People in Provincial Council and Aſſembly, may in after Ages bear ſome proportion with the in<g ref="char:EOLhyphen"/>creaſe and multiplying of the People, the Num<g ref="char:EOLhyphen"/>bers of ſuch Repreſentatives of the People may be from time to time increaſed and enlarged, ſo as at no time the number exceed ſeventy two for the Provincial Council, and two hundred
+<pb n="11" facs="tcp:150155:7"/> for the Aſſembly; the appointment and pro<g ref="char:EOLhyphen"/>portion of which Number, as alſo the laying and methodizing of the choice of ſuch Repre<g ref="char:EOLhyphen"/>ſentatives in future time, moſt equally to the diviſion of the Country, or number of the Inha<g ref="char:EOLhyphen"/>bitants, is left to the Governour and Provincial Council to propoſe, and the Aſſembly to reſolve, ſo that the order of proportion be ſtrictly ob<g ref="char:EOLhyphen"/>ſerved, both in the choice of the Council, and the reſpective Committees thereof, <hi>viz.</hi> one third to go off, and come in yearly.</p>
+            <p n="16">16th. That from, and after the Death of this Preſent Governour, the Provincial Council ſhall, together with the ſucceeding Governour, erect from time to time ſtanding Courts of Juſtice, in ſuch Places and Number as they ſhall judge con<g ref="char:EOLhyphen"/>venient for the good Government of the ſaid Province and Territories thereof; and that the Provincial Council ſhall on the thirteenth day of the ſecond Moneth, then next enſuing, elect and preſent to the Governour, or his Deputy, a double number of Perſons, to ſerve for Judges, Treaſurer, and Maſter of the Rolls within the ſaid Province and Territories, to continue ſo long as they ſhall well behave themſelves in thoſe Capacities reſpectively, and the Free-men of the ſaid Province in an Aſſembly met on the thirteenth day of the third Moneth, yearly elect, and then Preſent to the Governour or his Deputy a double number of Perſons to ſerve for
+<pb n="12" facs="tcp:150155:8"/> Sheriffs, Juſtices of the Peace, and Coroners for the Year next enſuing, out of which re<g ref="char:EOLhyphen"/>ſpective Elections and Preſentments, the Go<g ref="char:EOLhyphen"/>vernour or his Deputy ſhall nominate and com<g ref="char:EOLhyphen"/>miſſionate the proper numbers for each Office the third day after the ſaid reſpective Preſent<g ref="char:EOLhyphen"/>ments, or elſe the firſt named in ſuch Preſent<g ref="char:EOLhyphen"/>ment for each Office, as aforeſaid, ſhall ſtand and ſerve in that Office the time before re<g ref="char:EOLhyphen"/>ſpectively limited: And in caſes of Death or Default, ſuch vacancy ſhall be ſupplyed by the Governour and Provincial Council in manner aforeſaid.</p>
+            <p n="17">17th. That the Aſſembly ſhall continue ſo long as may be needful, to impeach Criminals fit to be there impeached, to paſs ſuch Bills into Laws as are propoſed to them, which they ſhall think fit to paſs into Laws, and till ſuch time as the Governour and Provincial Council ſhall de<g ref="char:EOLhyphen"/>clare, <hi>That they have nothing further to propoſe unto them for their Aſſent and Approbation:</hi> &amp; that de<g ref="char:EOLhyphen"/>claration ſhall be a Diſmiſs to the Aſſembly for that time. Which Aſſembly ſhall be notwith<g ref="char:EOLhyphen"/>ſtanding capable of aſſembling together upon the ſummons of the Governour and Provincial-Council at any time during that year, if the Governour and Provincial Council ſhall ſee occaſion for their ſo aſſembling.</p>
+            <p n="18">18th. That all the Elections of Members or
+<pb n="13" facs="tcp:150155:8"/> Repreſentatives of the People, to ſerve in Pro<g ref="char:EOLhyphen"/>vincial Council and Aſſembly, and all Queſtions to be determined by both or either of them, that relate to choice of Officers, and all or any other Perſonal matters, ſhall be reſolved or determi<g ref="char:EOLhyphen"/>ned by the <hi>Ballot;</hi> and all things relating to the Preparing and paſſing of Bills into Laws, ſhall be openly declared and reſolved by the <hi>Vote.</hi>
+            </p>
+            <p n="19">19th. That at all times when the Proprietary and Governour ſhall happen to be an Infant, &amp; under the Age of one and twenty Years, and no Guardians or Commiſſioners are appointed in writing by the Father of the ſaid Infant, or that ſuch Guardian ſhall be deceaſed, that during ſuch Minority, the Provincial Council ſhall from time to time, as they ſhall ſee meet, conſti<g ref="char:EOLhyphen"/>tute and appoint Guardians &amp; Commiſſioners, not exceeding three, one of which ſhall preſide as Deputy and chief Guardian, during ſuch Mi<g ref="char:EOLhyphen"/>nority, and ſhall have and execute, with the conſent of one of the other two, all the Power of a Governour in all publick Affairs and Con<g ref="char:EOLhyphen"/>cerns of the ſaid <hi>Province</hi> and <hi>Territories</hi> there<g ref="char:EOLhyphen"/>of, according to <hi>Charter;</hi> which ſaid Guardian ſo appointed, ſhall alſo have the care &amp; over-ſight of the Eſtate of the ſaid Minor, and be yearly accountable and reſponſable for the ſame to the Provincial Council, and the Provincial Council to the Minor when of Age, or to the next Heir in caſe of the Minor's death, for the Truſt be<g ref="char:EOLhyphen"/>fore expreſſed.</p>
+            <p n="20">
+               <pb n="14" facs="tcp:150155:9"/>20th. That as often as the days of the Month mentioned in any Article of this Charter, ſhall fall upon the Firſt day of the Week, commonly called the <hi>Lords day,</hi> the buſineſs appointed for that day ſhall be differred till the next day, un<g ref="char:EOLhyphen"/>leſs in caſes of Emergency.</p>
+            <p n="21">21. And for the Satisfaction and Encourage<g ref="char:EOLhyphen"/>ment of all Aliens, I do give and grant, that if any Alien, who is or ſhall be a purchaſor, or who doth or ſhall inhabit in this Province or Territories thereof, ſhall deceaſe at any time, before he can well be naturalized, his Right and Intereſt therein ſhall notwithſtanding deſcend to his Wife and Children, or other his Relati<g ref="char:EOLhyphen"/>ons, be he Teſtate or Inteſtate, according to the Laws of this <hi>Province</hi> and <hi>Territories</hi> thereof in ſuch caſes provided, in as free and ample manner, to all intents and purpoſes, as if the ſaid Alien had been naturaliz'd.</p>
+            <p n="22">22. And that the Inhabitants of this <hi>Province</hi> and <hi>Territories</hi> thereof may be accommodated with ſuch Food and Suſtenance, as God in his Providence hath freely afforded, I do alſo fur<g ref="char:EOLhyphen"/>ther grant to the Inhabitants of this <hi>Province</hi> &amp; <hi>Territories</hi> thereof, liberty to fowl and hunt up<g ref="char:EOLhyphen"/>on the <hi>Lands</hi> they hold, or all other <hi>Lands</hi> there<g ref="char:EOLhyphen"/>in, not encloſed, and to fiſh in all Waters in the ſaid <hi>Lands,</hi> and in all <hi>Rivers</hi> and <hi>Rivulets</hi> in and
+<pb n="15" facs="tcp:150155:9"/> belonging to this <hi>Province</hi> and <hi>Territories</hi> there<g ref="char:EOLhyphen"/>of, with liberty to draw his or their Fiſh on ſhore on any mans <hi>Lands,</hi> ſo as it be not to the detriment or annoyance of the Owner thereof, except ſuch <hi>Lands</hi> as do lie upon Inland-<hi>Rivulets</hi> that are not boatable, or which are or may be hereafter erected into Mannors.</p>
+            <p n="23">23. And that all the Inhabitants of this <hi>Pro<g ref="char:EOLhyphen"/>vince</hi> and <hi>Territories</hi> thereof, whether Purcha<g ref="char:EOLhyphen"/>ſors or others, may have <hi>the laſt worldly Pledge of my good and kind Intentions</hi> to them and their Heirs, I do <hi>give, grant</hi> and <hi>confirm</hi> to all and e<g ref="char:EOLhyphen"/>very one of them <hi>full and quiet Poſſeſſion</hi> of their reſpective <hi>Lands,</hi> to which they have any <hi>lawful</hi> or <hi>equitable Claim,</hi> ſaving only ſuch Rents and Services for the ſame, as are or cuſtomarily ought to be reſerved to <hi>Me,</hi> my <hi>Heirs</hi> &amp; <hi>Aſſigns.</hi>
+            </p>
+            <p n="24">24. That no <hi>Act, Law</hi> or <hi>Ordinance</hi> whatſoe<g ref="char:EOLhyphen"/>ver ſhall at any time hereafter be made or done by the <hi>Proprietary</hi> and <hi>Governour</hi> of this <hi>Province</hi> and <hi>Territories</hi> thereunto belonging, his Heirs, or Aſſigns, or by the <hi>Free-men</hi> in <hi>Provincial Council</hi> or <hi>Aſſembly,</hi> to alter, change or diminiſh the form or effect of this <hi>Charter,</hi> or any part or clauſe thereof, contrary to the true intent and meaning thereof, without the conſent of the <hi>Proprietary</hi> and <hi>Governour,</hi> his <hi>Heirs</hi> or <hi>Aſ<g ref="char:EOLhyphen"/>ſigns,</hi> and <hi>Six parts</hi> of <hi>Seven</hi> of the ſaid <hi>Free-men</hi> in <hi>Provincial Council</hi> and <hi>Aſſembly</hi> met.</p>
+            <p n="25">
+               <pb n="16" facs="tcp:150155:10"/>25. And <hi>Laſtly,</hi> I the ſaid <hi>William Penn,</hi> Pro<g ref="char:EOLhyphen"/>prietary and Governour of the Province of <hi>Pennſylvania,</hi> and <hi>Territories</hi> thereto belonging for me, my <hi>Heirs</hi> and <hi>Aſſigns,</hi> have ſolemnly <hi>De<g ref="char:EOLhyphen"/>clared, Granted</hi> and <hi>Confirmed,</hi> and do hereby <hi>ſo<g ref="char:EOLhyphen"/>lemnly Declare, Grant &amp; Confirm,</hi> tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> neither I, my <hi>Heirs</hi> nor <hi>Aſſigns,</hi> ſhall procure or do any thing or things whereby the <hi>Liberties</hi> in this <hi>Charter</hi> contained and expreſſed ſhall be in<g ref="char:EOLhyphen"/>fringed or broken: And if any thing be procu<g ref="char:EOLhyphen"/>red by any Perſon or Perſons contrary to theſe Premiſes, it ſhall be held of no force or effect. In <hi>Witneſs</hi> whereof, I the ſaid <hi>William Penn</hi> at <hi>Philadelphia</hi> in <hi>Pennſylvania,</hi> have unto this pre<g ref="char:EOLhyphen"/>ſent <hi>Charter of Liberties</hi> ſet my Hand and broad Seal, this ſecond day of the ſecond Moneth, in the Year of our Lord 1683. being the thirty fifth year of the King, and the third year of my Government.</p>
+            <closer>
+               <signed>William Penn.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
